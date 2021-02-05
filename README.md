@@ -1,2 +1,2 @@
-# Universe
-iOS App 开发的Universe
+# SolarSystem
+太阳系 -> 水星、金星、地球、火星、木星、土星、天王星和海王星
